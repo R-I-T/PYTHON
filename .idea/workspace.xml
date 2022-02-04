@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b208cb3-01ed-4b86-a255-cd2363fa3d2d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON LAB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON LAB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0/program9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.0/prgrm8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2/prgrm13.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.2/prgrm13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2/prgrm9.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.2/prgrm9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +29,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.program1">
-    <configuration name="prgrm1.2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.prgrm4">
+    <configuration name="prgrm4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +38,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2/prgrm1.2 (1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0/prgrm4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prgrm1.2 (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prgrm5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2/prgrm1.2 (6).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0/prgrm5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,19 +72,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="program1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prgrm6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\adhit\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.0" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.0" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.0/program1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0/prgrm6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,19 +93,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="program4. (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prgrm7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\adhit\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.0" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.0" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.0/program4. (1).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0/prgrm7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,40 +114,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="program4. (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prgrm8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYTHON LAB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\adhit\AppData\Local\Programs\Python\Python310\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.0" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.0" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.0/program4. (2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="program7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PYTHON LAB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\adhit\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.0" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.0/program7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.0/prgrm8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,20 +136,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.program1" />
-      <item itemvalue="Python.prgrm1.2 (1)" />
-      <item itemvalue="Python.program4. (1)" />
-      <item itemvalue="Python.program4. (2)" />
-      <item itemvalue="Python.program7" />
-      <item itemvalue="Python.prgrm1.2 (6)" />
+      <item itemvalue="Python.prgrm4" />
+      <item itemvalue="Python.prgrm5" />
+      <item itemvalue="Python.prgrm6" />
+      <item itemvalue="Python.prgrm7" />
+      <item itemvalue="Python.prgrm8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.program1" />
-        <item itemvalue="Python.prgrm1.2 (6)" />
-        <item itemvalue="Python.program4. (2)" />
-        <item itemvalue="Python.program4. (1)" />
-        <item itemvalue="Python.prgrm1.2 (1)" />
+        <item itemvalue="Python.prgrm4" />
+        <item itemvalue="Python.prgrm8" />
+        <item itemvalue="Python.prgrm7" />
+        <item itemvalue="Python.prgrm6" />
+        <item itemvalue="Python.prgrm5" />
       </list>
     </recent_temporary>
   </component>
